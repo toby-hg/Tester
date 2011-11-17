@@ -1,5 +1,5 @@
 <?php 
 
-echo "what up";
+echo "what up, loc?";
 
 ?>
